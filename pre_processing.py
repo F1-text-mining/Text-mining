@@ -14,15 +14,16 @@ from treetagger import TreeTagger
 from nltk import pos_tag
 from nltk.stem.wordnet import WordNetLemmatizer
 import spacy
-
+#load spacy
 nlp = spacy.load('fr_core_news_sm')
-
+#load the article data csv
 column_names = ['Index', 'Title', 'Link', 'Content']
 my_csv = pd.read_csv('article_data_fr.csv',  names=column_names)
 letters = my_csv.Link.to_list()
 titles = my_csv.Title.to_list()
 contents = my_csv.Content.to_list()
 
+#look for float in the data 
 contents_no_float = []
 for word in contents:
     if type(word) == float:
@@ -31,51 +32,40 @@ for word in contents:
     else:
         contents_no_float.append(word)
 
-
+#transform the text to lowercase
 lowercase_text = []
 for words in contents_no_float:
     lowercase_text.append(str.lower(words))
 content = lowercase_text
 
 i = 0
-
+#call the tokenizer
 tokenizer = RegexpTokenizer(r'\w+')
 
 
-
+#create a new csv file
 with open('fr_pos_processed.csv', 'w', encoding = "utf-8") as csvFile:
     fieldnames = ['Index', 'Title', 'Content_proc']
     writer = csv.DictWriter(csvFile, fieldnames=fieldnames)
     writer.writeheader()
 
     for i in range (1, len(content)):
-
+        #tokenize
         tokenized_word=tokenizer.tokenize(content[i])
-
-        #pos_tagged_total = []
-        #for sent in tokenized_word:
-        #pos_tagged = pos_tag(tokenized_word)
-            #pos_tagged_total.append(pos_tagged)
-        #print(pos_tagged)
+        
+        #remove stop words
 
         #stop_words=set(stopwords.words("german"))
         #stop_words=set(stopwords.words("english"))
         #stop_words=set(stopwords.words("italian"))
         #stop_words=set(stopwords.words("dutch"))
         stop_words=set(stopwords.words("french"))
-
+        #remove stop words
         filt_content=[]
         for k in tokenized_word:
             if k not in stop_words:
                 filt_content.append(k)
-
-
-        #stemming = SnowballStemmer("german")
-        #stemming = SnowballStemmer("english")
-        #stemming = SnowballStemmer("italian")
-        #stemming = SnowballStemmer("dutch")
-        #stemming = SnowballStemmer("french")
-
+        #pos tag and lemmatize
         word_stemming=[]
         #lemmatizer = WordNetLemmatizer() #english
         for word, tag in TextBlob(filt_content, pos_tagger=PatternTagger()):
@@ -90,14 +80,13 @@ with open('fr_pos_processed.csv', 'w', encoding = "utf-8") as csvFile:
 
         Title = titles[i]
         Index = i
-
+        #write a row to the csv file
         writer.writerow({'Index': Index, 'Title': Title, 'Content_proc': word_stemming })
 
         print(i)
         i = i +1
 
-        if i == 10:
-            break
+        
 
 
 
