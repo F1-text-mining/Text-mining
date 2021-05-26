@@ -1,19 +1,22 @@
 import csv
 import pandas as pd
 
+#reading the cvs file
 column_names = ['Language','Sentiment','Entity1']
 my_csv = pd.read_csv('Sentiment_by_Language_and_Labels_1.csv',  names=column_names)
 
+#adding columns to variables
 sentiment = my_csv.Sentiment.to_list()
 classtype = my_csv.Entity1.to_list()
 language = my_csv.Language.to_list()
 
-
+#making a new cvs file
 with open("Sentiment_by_Language_and_Labels_labelled.csv", 'w', encoding = "utf-8") as f:
     fieldnames = ['ID', 'Label','Sentiment','Language']
     writer = csv.DictWriter(f, fieldnames=fieldnames)
     writer.writeheader()
 
+    #see if what the language is. if that is the case the _languages to the entity
     for i in range (1, len(language)):
         if language[i] == "Netherlands":
             entity_sen1 = classtype[i] + "_nl"
@@ -28,6 +31,7 @@ with open("Sentiment_by_Language_and_Labels_labelled.csv", 'w', encoding = "utf-
             entity_sen1 = classtype[i] + "_en"
             print(entity_sen1)
 
+        #writing the cvs row
         sentiment1 = sentiment[i]
         language1 = language[i]
         label1 = entity_sen1
