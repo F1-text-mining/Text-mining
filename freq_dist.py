@@ -13,17 +13,18 @@ from nltk.stem import SnowballStemmer
 from collections import Counter
 import collections
 
+#loading the processed data
 column_names = ['Index', 'Title', 'Content_proc']
 my_csv = pd.read_csv('german_processed.csv',  names=column_names)
 lst = my_csv.Content_proc.to_list()
 
-#processed_content1 = str(processed_content)
+#split the data
 def convert(lst):
     return([i for item in lst for i in item.split()])
 
 splitw = convert(lst)
 
-
+#make a frequentie plot
 fdist = FreqDist(splitw)
 fdist.plot(30,cumulative=False)
 plt.show()
