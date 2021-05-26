@@ -1,7 +1,7 @@
 import csv
 import pandas as pd
 
-#reading the cvs file
+#reading the csv file
 column_names = ['Language','Sentiment','Entity1']
 my_csv = pd.read_csv('Sentiment_by_Language_and_Labels_1.csv',  names=column_names)
 
@@ -10,7 +10,7 @@ sentiment = my_csv.Sentiment.to_list()
 classtype = my_csv.Entity1.to_list()
 language = my_csv.Language.to_list()
 
-#making a new cvs file
+#making a new csv file
 with open("Sentiment_by_Language_and_Labels_labelled.csv", 'w', encoding = "utf-8") as f:
     fieldnames = ['ID', 'Label','Sentiment','Language']
     writer = csv.DictWriter(f, fieldnames=fieldnames)
@@ -31,7 +31,7 @@ with open("Sentiment_by_Language_and_Labels_labelled.csv", 'w', encoding = "utf-
             entity_sen1 = classtype[i] + "_en"
             print(entity_sen1)
 
-        #writing the cvs row
+        #writing the csv row
         sentiment1 = sentiment[i]
         language1 = language[i]
         label1 = entity_sen1
