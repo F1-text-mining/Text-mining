@@ -1,6 +1,6 @@
 import csv
 import pandas as pd
-#Loading Node cvs file
+#Loading Node csv file
 column_names = ['ID', 'Label','Sentiment','Language']
 my_csv = pd.read_csv('Sentiment_by_Language_and_Labels_labelled.csv',  names=column_names)
 
@@ -17,7 +17,7 @@ sources = df.Source.to_list()
 targets = df.Target.to_list()
 sent = df.Sentiment.to_list()
 
-#Create new cvs file
+#Create new csv file
 with open("edges.csv", 'w', encoding = "utf-8") as f:
     #write columnnames
     fieldnames = ['Source','Target','Sentiment']
@@ -38,7 +38,7 @@ with open("edges.csv", 'w', encoding = "utf-8") as f:
                 print(targ)
 
         sent1 = sent[i]
-        #write the cvs rows
+        #write the csv rows
         if targ != None:
             writer.writerow({'Source': sourc, 'Target': targ, 'Sentiment': sent1 })
 
