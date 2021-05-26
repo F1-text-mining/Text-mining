@@ -1,0 +1,1120 @@
+﻿Source,Sentiment,Target
+Hamilton_de,47.152934215060036,""
+Verstappen_nl,45.67485484137392,""
+Mercedes_de,27.95844023787196,""
+Verstappen_de,26.415541864494756,""
+Hamilton_nl,24.201731911977326,""
+Vettel_de,22.419688819804506,""
+McLaren_de,19.868128495243678,""
+Red Bull_nl,19.642536307110152,""
+Ferrari_de,19.4851472355805,""
+Mercedes_nl,18.83189573199737,""
+Bottas_de,17.688381143429375,""
+Renault_de,15.457591427764813,""
+Hamilton_fr,14.816788338417913,""
+Ferrari_nl,13.14199848232725,""
+Hamilton_en,13.086116187208617,""
+Ricciardo_de,12.915036526213122,""
+Hamilton_nl,11.197577171796079,Verstappen_nl
+Ferrari_fr,11.16571018652207,""
+Red Bull_de,11.126439008255774,""
+Albon_de,10.755965502245408,""
+Mercedes_fr,10.698506850989613,""
+Vettel_de,10.57627621940533,Ferrari_de
+Perez_de,9.680320376482362,""
+Russell_de,8.980265891663873,""
+Grosjean_de,8.555899282309657,""
+Vettel_nl,8.480273910970396,""
+Racing Point_de,8.220005278855032,""
+Williams_de,8.209777571137103,""
+Leclerc_de,8.001093823142316,Ferrari_de
+Renault_fr,7.9307617232311545,""
+Leclerc_de,7.860560698548873,""
+McLaren_fr,7.797472477993257,""
+Gasly_de,7.737448544054237,""
+McLaren_nl,7.494005538562089,""
+Verstappen_nl,7.232983579066865,Red Bull_nl
+Ricciardo_nl,7.197889327777346,""
+Williams_fr,7.084179368164754,""
+Sainz_de,7.022383537661122,""
+Racing Point_fr,6.802190002581043,""
+Haas_de,6.664354097788563,""
+Verstappen_fr,6.593481318093799,""
+Hamilton_nl,6.485130468244746,Mercedes_nl
+Albon_nl,6.4007411824007825,""
+Verstappen_de,6.197600686350686,Mercedes_de
+Hamilton_de,6.147089313238246,Bottas_de
+Mercedes_en,6.118191293920354,""
+Stroll_de,6.114175892109407,""
+Williams_nl,5.987371363525912,""
+Red Bull_fr,5.633475385398711,""
+Leclerc_de,5.574260001372401,Vettel_de
+Grosjean_de,5.554798363964187,Haas_de
+Renault_nl,5.457242933276707,""
+Verstappen_nl,5.294395030593252,Mercedes_nl
+Verstappen_en,5.274561294068095,""
+Grosjean_fr,5.137957105948943,""
+Bottas_nl,5.0892724376454535,""
+Ferrari_en,5.0835836665737135,""
+Sainz_de,4.991696222594054,McLaren_de
+AlphaTauri_de,4.987632896858902,""
+Red Bull_de,4.947921124361701,Mercedes_de
+Ricciardo_de,4.753746196891357,Renault_de
+Racing Point_nl,4.744372444724178,""
+Ocon_de,4.664831551691155,""
+Magnussen_de,4.650780607021533,""
+Vettel_nl,4.407945105932909,Ferrari_nl
+Russell_de,4.247850667850668,Williams_de
+Vettel_fr,4.2176984784483835,""
+Hamilton_de,4.149174570562271,Mercedes_de
+Gasly_fr,4.070075684570573,""
+Ricciardo_fr,4.036800395303648,""
+Grosjean_nl,4.021692013441301,""
+Russell_nl,3.967894443860902,""
+Norris_de,3.944161778718342,""
+AlphaTauri_nl,3.8650123121987505,""
+Grosjean_en,3.6520737207403644,""
+Mercedes_de,3.6491377521849215,Racing Point_de
+Perez_nl,3.648720311294552,""
+Bottas_en,3.566732787790909,""
+Verstappen_de,3.563667187264508,Red Bull_de
+Red Bull_nl,3.5324101552625624,Mercedes_nl
+Hamilton_en,3.520078359979957,Bottas_en
+Norris_nl,3.507317787953403,""
+Stroll_nl,3.4597538833752957,""
+Leclerc_nl,3.4349295558248643,""
+Leclerc_nl,3.4065322630624526,Vettel_nl
+Ricciardo_de,3.402154771535472,Ocon_de
+Bottas_fr,3.3977236621167313,""
+Haas_nl,3.27988989720752,""
+McLaren_en,3.2327994626832406,""
+Sainz_nl,3.2276562454821818,""
+Vettel_en,3.227428161041589,Ferrari_en
+Gasly_nl,3.1971468376349637,""
+Vettel_fr,3.1772928430203433,Ferrari_fr
+Russell_de,3.0456147703647702,Hamilton_de
+Norris_fr,3.0186433365400203,""
+Hamilton_en,2.96473066404996,Mercedes_en
+Perez_de,2.9230577536498585,Racing Point_de
+Verstappen_nl,2.8972196662290135,Bottas_nl
+Perez_nl,2.8592691312342176,Racing Point_nl
+Haas_fr,2.7919358597294495,""
+Bottas_de,2.78608962018573,Mercedes_de
+AlphaTauri_fr,2.7694326569848804,""
+Ricciardo_fr,2.755890409779739,Renault_fr
+Alfa Romeo_fr,2.741563092365275,""
+Mercedes_de,2.695548519840716,Ferrari_de
+Russell_nl,2.6947255336471163,Williams_nl
+Ricciardo_en,2.6412169222671498,""
+Hamilton_fr,2.603248761885605,Mercedes_fr
+Ocon_de,2.518708146649323,Renault_de
+Leclerc_fr,2.5076723398532836,""
+Bottas_en,2.4784380459254414,Mercedes_en
+Hamilton_nl,2.460424147849834,Bottas_nl
+Red Bull_fr,2.450063153139792,Mercedes_fr
+Hamilton_de,2.449371559599449,Vettel_de
+Russell_fr,2.4056033411239075,""
+Racing Point_de,2.404444615374754,McLaren_de
+Alfa Romeo_de,2.3965464459401207,""
+Ocon_nl,2.37831671454033,""
+Hamilton_de,2.3589989415618704,Verstappen_de
+Stroll_fr,2.3120502695940037,""
+Verstappen_nl,2.287469098275785,Albon_nl
+Ocon_fr,2.280038302627485,""
+Gasly_en,2.141033110412436,""
+Stroll_de,2.093020683020683,Racing Point_de
+Gasly_nl,2.071911748311365,Red Bull_nl
+Ocon_nl,2.054941033080818,Renault_nl
+Hamilton_fr,2.026184860549304,Bottas_fr
+Norris_en,1.9997975972278244,""
+Ricciardo_nl,1.907531853978544,Renault_nl
+Ocon_fr,1.8954067362851268,Renault_fr
+Albon_en,1.8103856039887996,Red Bull_en
+Perez_en,1.7982440381990599,""
+Albon_nl,1.7634333137775826,Red Bull_nl
+Red Bull_en,1.7560994495670261,""
+Norris_nl,1.7504099727782527,McLaren_nl
+Mercedes_fr,1.736496400843305,Racing Point_fr
+Norris_de,1.7118925786688943,McLaren_de
+Sainz_de,1.7050053867700927,Racing Point_de
+Hamilton_de,1.6627677546857067,Red Bull_de
+Vettel_en,1.6442402300468226,""
+Mercedes_nl,1.6110953794582823,Racing Point_nl
+Leclerc_nl,1.600221882975214,Ferrari_nl
+Kvyat_nl,1.5890625800625802,""
+Leclerc_fr,1.584372762788702,Vettel_fr
+Albon_fr,1.5531537652711074,Red Bull_fr
+Sainz_fr,1.5363407780004932,""
+Hamilton_nl,1.535422476682674,Red Bull_nl
+Perez_en,1.5156279080353845,Racing Point_en
+Verstappen_fr,1.4879852504539421,Red Bull_fr
+Stroll_en,1.483626793439659,""
+Sainz_en,1.4681138473944007,""
+Williams_en,1.4598169531086198,""
+Russell_en,1.4401676248308455,Williams_en
+Russell_de,1.4348136040205004,Mercedes_de
+Stroll_de,1.4330769230769231,Mercedes_de
+Bottas_fr,1.4287837076834808,Mercedes_fr
+Verstappen_de,1.4218313755532854,Albon_de
+Perez_nl,1.4123190250434585,Red Bull_nl
+Russell_en,1.4065797684608878,""
+Verstappen_nl,1.3951801047515333,Perez_nl
+Russell_nl,1.3945035026176136,Mercedes_nl
+Racing Point_en,1.3614629623235421,""
+Russell_fr,1.3535999126730118,Williams_fr
+Grosjean_nl,1.3470756949896963,Haas_nl
+Perez_de,1.3420304232804234,Mercedes_de
+Grosjean_fr,1.3346119309675264,Haas_fr
+Albon_fr,1.3189465480871985,""
+Sainz_de,1.3165945945945945,Ferrari_de
+Ricciardo_nl,1.2926825933075934,Red Bull_nl
+Russell_fr,1.2780284716746042,Mercedes_fr
+Red Bull_en,1.2697311085970244,Mercedes_en
+Stroll_nl,1.2652723934216272,Racing Point_nl
+Russell_de,1.2283333333333335,Latifi_de
+Red Bull_de,1.2268636363636365,Renault_de
+Leclerc_en,1.1905797632010857,Ferrari_en
+Mercedes_nl,1.1867861317758845,Ferrari_nl
+Verstappen_en,1.1557831284419589,Mercedes_en
+Verstappen_en,1.151385320255954,Bottas_en
+Verstappen_de,1.1377976190476191,Vettel_de
+Russell_nl,1.1186722085385878,Bottas_nl
+Russell_nl,1.1180202206846506,Verstappen_nl
+Russell_de,1.0973934638577942,Bottas_de
+Verstappen_de,1.0866135868942606,Ricciardo_de
+Gasly_de,1.0633333333333335,Perez_de
+Kvyat_en,1.0558887357888684,""
+Kvyat_fr,1.0535703444083169,""
+Renault_en,1.0487741879456882,""
+Sainz_nl,1.0447486103692776,McLaren_nl
+Verstappen_fr,1.0428336488316752,Mercedes_fr
+Latifi_de,1.037831517141862,""
+Sainz_fr,0.9832807815622209,Ferrari_fr
+Racing Point_fr,0.9559437907007994,Renault_fr
+Ricciardo_en,0.9520518833396662,Renault_en
+Albon_en,0.9486060951918184,""
+Leclerc_en,0.933959311060588,Vettel_en
+Leclerc_en,0.9331518611573386,""
+Hamilton_fr,0.9227394971207449,Verstappen_fr
+Latifi_de,0.9142857142857144,Williams_de
+Ricciardo_fr,0.8868519793292812,Ocon_fr
+Verstappen_de,0.8799773755656107,Bottas_de
+Grosjean_en,0.8765359325127732,Haas_en
+Hamilton_fr,0.8624133828671328,Red Bull_fr
+Ricciardo_de,0.8581168831168831,Albon_de
+Hamilton_de,0.8560064935064935,Grosjean_de
+McLaren_de,0.8476190476190475,Renault_de
+Magnussen_fr,0.8408167044595615,""
+Grosjean_de,0.8389452332657199,Magnussen_de
+Stroll_fr,0.8361799812030075,Racing Point_fr
+Russell_nl,0.8327027458492976,Latifi_nl
+Ricciardo_nl,0.8271029324519027,Ocon_nl
+Leclerc_fr,0.826837390448333,Ferrari_fr
+Ricciardo_de,0.8121212121212121,Mercedes_de
+Gasly_de,0.8097285067873303,AlphaTauri_de
+Hamilton_nl,0.8031368707437786,Grosjean_nl
+Sainz_en,0.7953548836775298,McLaren_en
+Verstappen_nl,0.792532127833852,Vettel_nl
+Magnussen_de,0.7921584263689527,Haas_de
+Sainz_fr,0.7798911176542754,Norris_fr
+Racing Point_fr,0.776020556441609,Ferrari_fr
+Russell_de,0.7752747252747253,Vettel_de
+Verstappen_nl,0.770190727147249,Ricciardo_nl
+Perez_nl,0.7690106951871658,Vettel_nl
+Perez_de,0.7685714285714286,Ricciardo_de
+Vettel_de,0.7666666666666666,AlphaTauri_de
+Sainz_nl,0.7666406281587442,Ferrari_nl
+Sainz_de,0.7588149098698969,Norris_de
+Russell_en,0.7483363198344659,Bottas_en
+Gasly_fr,0.7473566780886043,AlphaTauri_fr
+Giovinazzi_fr,0.7473429192767429,""
+Red Bull_nl,0.744888849199133,Ferrari_nl
+Red Bull_nl,0.7430181623931623,Renault_nl
+Raikkonen_en,0.7413099629090445,""
+Russell_fr,0.7317809056956116,Bottas_fr
+Racing Point_fr,0.7306639377692008,McLaren_fr
+Russell_de,0.7269957983193276,Verstappen_de
+Racing Point_de,0.7228138528138526,Renault_de
+Racing Point_nl,0.7226772817460316,Renault_nl
+Latifi_nl,0.721841746982372,""
+Sainz_nl,0.7179452715743038,Norris_nl
+Mercedes_en,0.71732150754062,Racing Point_en
+Russell_nl,0.7116557450939603,Hamilton_nl
+Hamilton_de,0.6969487383961068,Albon_de
+Verstappen_en,0.6957652350285177,Red Bull_en
+Ocon_nl,0.6943904320987654,Mercedes_nl
+Sainz_fr,0.688295521911286,McLaren_fr
+Verstappen_nl,0.6881081615890084,Racing Point_nl
+McLaren_fr,0.6820219774039566,Ferrari_fr
+Ricciardo_de,0.6785714285714285,Sainz_de
+Gasly_nl,0.6761292613636365,Kvyat_nl
+Giovinazzi_de,0.671372549019608,""
+Stroll_en,0.6553614539529696,Racing Point_en
+Vettel_nl,0.652518900305789,Red Bull_nl
+Perez_de,0.6463768115942028,McLaren_de
+Perez_nl,0.6412555433276269,Albon_nl
+Hamilton_de,0.637142857142857,Norris_de
+Vettel_nl,0.6363740503323836,Mercedes_nl
+Bottas_nl,0.6341682824548958,Mercedes_nl
+Hamilton_de,0.6285714285714286,Williams_de
+Hamilton_nl,0.6283223362658846,Sainz_nl
+Norris_fr,0.6260220501282553,McLaren_fr
+Ricciardo_de,0.6199999999999999,Racing Point_de
+Sainz_de,0.6157925407925408,Mercedes_de
+Gasly_de,0.612,Vettel_de
+Ocon_de,0.6105263157894736,Vettel_de
+Perez_nl,0.6101819923371647,Haas_nl
+Hamilton_de,0.6079545454545454,Ricciardo_de
+Perez_nl,0.6009463587487781,Mercedes_nl
+Red Bull_de,0.6000000000000001,AlphaTauri_de
+Giovinazzi_de,0.6,Alfa Romeo_de
+Ocon_en,0.5989335396572238,Renault_en
+Russell_en,0.5946863532090805,Mercedes_en
+Albon_de,0.5931998109417462,Red Bull_de
+Bottas_de,0.5905050505050504,Ocon_de
+Gasly_nl,0.5904492035742036,AlphaTauri_nl
+Racing Point_en,0.5896708062987733,Renault_en
+Hamilton_nl,0.5856330940988835,Vettel_nl
+Stroll_nl,0.5792351208480973,McLaren_nl
+Russell_en,0.5782647953897954,Hamilton_en
+Gasly_de,0.5716666666666668,Leclerc_de
+Gasly_fr,0.5707137102991058,Red Bull_fr
+Ricciardo_de,0.5642857142857142,McLaren_de
+Hamilton_nl,0.5542571095571095,Ferrari_nl
+Verstappen_nl,0.5528126098815754,Leclerc_nl
+Hamilton_nl,0.5514194577352473,Ocon_nl
+Hamilton_fr,0.5512388936057172,Ricciardo_fr
+Vettel_nl,0.5409502923976607,Racing Point_nl
+Hamilton_en,0.5383743977975329,Verstappen_en
+AlphaTauri_en,0.5312767576038679,""
+Racing Point_de,0.5272727272727272,Williams_de
+Gasly_nl,0.5257886904761906,Verstappen_nl
+Vettel_de,0.5192934782608694,Mercedes_de
+Verstappen_fr,0.5188406837251232,Bottas_fr
+Bottas_de,0.5187499999999998,Ricciardo_de
+Russell_nl,0.5046277777777777,Red Bull_nl
+Gasly_nl,0.5031209680842034,Perez_nl
+Gasly_fr,0.501431623931624,Kvyat_fr
+Ferrari_de,0.4958333333333333,Alfa Romeo_de
+Ferrari_de,0.49393939393939384,AlphaTauri_de
+Mercedes_de,0.49183673469387745,McLaren_de
+Norris_de,0.49166666666666664,Ferrari_de
+Perez_de,0.48571428571428565,Leclerc_de
+Sainz_de,0.46826923076923077,Vettel_de
+Hamilton_de,0.46666666666666656,Ferrari_de
+Gasly_de,0.46631578947368435,Ferrari_de
+Alfa Romeo_en,0.4656683791000014,""
+Norris_de,0.46499999999999997,Racing Point_de
+Russell_de,0.45,Perez_de
+Gasly_de,0.444,Red Bull_de
+Hamilton_nl,0.43973884422646947,Albon_nl
+Verstappen_fr,0.43931563180203914,Albon_fr
+Red Bull_de,0.43913043478260866,Racing Point_de
+Norris_nl,0.43348684210526317,Racing Point_nl
+Mercedes_fr,0.4323123486819139,Ferrari_fr
+Vettel_de,0.43225806451612897,Williams_de
+Mercedes_de,0.43,Williams_de
+Gasly_fr,0.4267521008403362,Verstappen_fr
+Norris_de,0.42500000000000004,Mercedes_de
+Albon_de,0.42352941176470593,AlphaTauri_de
+Ricciardo_de,0.4227272727272727,Vettel_de
+Ocon_en,0.422085263664211,""
+Ricciardo_fr,0.42136976529217907,McLaren_fr
+Vettel_fr,0.4188280766852195,Mercedes_fr
+Giovinazzi_nl,0.41370370370370374,""
+Hamilton_fr,0.40913275906292756,Gasly_fr
+Vettel_de,0.4080808080808081,McLaren_de
+Leclerc_de,0.4074074074074074,Racing Point_de
+Russell_fr,0.4047494623655914,Hamilton_fr
+Ocon_fr,0.4025665522941294,Mercedes_fr
+McLaren_de,0.3999999999999999,Williams_de
+Gasly_de,0.39999999999999986,Albon_de
+Russell_en,0.3973268398268398,Perez_en
+Ricciardo_en,0.39547411616161615,Grosjean_en
+Ferrari_de,0.3947368421052632,Williams_de
+Gasly_nl,0.3925925925925927,Albon_nl
+Ricciardo_fr,0.3923099620979568,Stroll_fr
+Verstappen_nl,0.39132234011467815,Ferrari_nl
+Hamilton_en,0.39028855597807205,Grosjean_en
+Russell_nl,0.38970749665327975,Perez_nl
+Norris_en,0.38914094650205755,Racing Point_en
+Racing Point_nl,0.3885224727379899,McLaren_nl
+Ricciardo_fr,0.38415215664711644,Grosjean_fr
+Vettel_fr,0.38284676993487066,Racing Point_fr
+Giovinazzi_en,0.3810281462255146,""
+Albon_en,0.376947619047619,Mercedes_en
+Hamilton_en,0.37415236104891275,Vettel_en
+Perez_nl,0.37128759398496247,Ricciardo_nl
+Hamilton_fr,0.36768708220415536,Ocon_fr
+Red Bull_en,0.3670723720723721,Renault_en
+Kvyat_en,0.36181189445475154,AlphaTauri_en
+Latifi_fr,0.35982590051457974,Williams_fr
+Ricciardo_nl,0.3596641975308642,Ferrari_nl
+Hamilton_fr,0.35859105998168495,Ferrari_fr
+Bottas_fr,0.3550710753866765,Ricciardo_fr
+Red Bull_nl,0.3550078369905957,Racing Point_nl
+Hamilton_en,0.3548813010052506,Red Bull_en
+Verstappen_fr,0.35477849462365596,Stroll_fr
+Hamilton_fr,0.3546398513385453,Albon_fr
+Albon_nl,0.35231851851851853,Kvyat_nl
+Haas_de,0.3512145748987855,Ferrari_de
+Russell_de,0.3476190476190475,Red Bull_de
+Haas_fr,0.34283488372093024,Ferrari_fr
+Haas_de,0.3423076923076923,Racing Point_de
+Haas_nl,0.3396904761904762,Ferrari_nl
+Russell_en,0.33956701157920677,Leclerc_en
+Hamilton_fr,0.33936502546689307,Vettel_fr
+Hamilton_en,0.3384213959556426,Albon_en
+Red Bull_fr,0.3258372734436565,Renault_fr
+Latifi_de,0.32500000000000007,Mercedes_de
+Magnussen_nl,0.32407407407407407,Haas_nl
+Russell_en,0.32355449782775364,Albon_en
+Verstappen_nl,0.321580919080919,Stroll_nl
+Hamilton_fr,0.32046794105933896,Sainz_fr
+Magnussen_nl,0.3188789173789174,""
+Mercedes_fr,0.3166976744186046,McLaren_fr
+Verstappen_nl,0.31666666666666654,Renault_nl
+McLaren_fr,0.3143164627363738,Renault_fr
+Ferrari_nl,0.31287170930663705,Williams_nl
+Raikkonen_nl,0.30908129571577847,""
+Grosjean_nl,0.30895555555555554,Mercedes_nl
+Alfa Romeo_nl,0.30096491228070177,""
+Perez_de,0.3,Vettel_de
+Hamilton_fr,0.299505444646098,Grosjean_fr
+Sainz_nl,0.29940104166666665,Leclerc_nl
+Perez_nl,0.29791666666666666,Stroll_nl
+Bottas_fr,0.29315018315018315,Ferrari_fr
+Ricciardo_fr,0.28613170163170165,Vettel_fr
+Gasly_nl,0.2860111111111111,Ferrari_nl
+McLaren_nl,0.28573593073593073,Ferrari_nl
+Albon_de,0.2833333333333333,Mercedes_de
+Gasly_de,0.28103448275862064,Sainz_de
+Ricciardo_de,0.28099999999999997,Red Bull_de
+Raikkonen_nl,0.28015966386554625,Alfa Romeo_nl
+Hamilton_nl,0.27948275862068966,Gasly_nl
+Magnussen_fr,0.27786321764971794,Haas_fr
+Perez_nl,0.27398148148148155,Raikkonen_nl
+Racing Point_fr,0.273,Williams_fr
+Gasly_fr,0.27212500000000006,Albon_fr
+Verstappen_en,0.26888888888888896,Grosjean_en
+Stroll_nl,0.26666666666666666,Ferrari_nl
+Vettel_fr,0.26394642857142864,AlphaTauri_fr
+Leclerc_de,0.256,Stroll_de
+Gasly_en,0.2522108843537415,Red Bull_en
+Gasly_de,0.2521739130434783,Verstappen_de
+Mercedes_nl,0.2498550724637681,Renault_nl
+Bottas_nl,0.24756944444444443,Red Bull_nl
+Sainz_nl,0.24406249999999993,Renault_nl
+Verstappen_en,0.24379223988051485,Perez_en
+Red Bull_nl,0.24187499999999998,AlphaTauri_nl
+Sainz_en,0.23989621489621485,Norris_en
+Gasly_fr,0.23924999999999996,Stroll_fr
+Haas_fr,0.23883333333333334,Racing Point_fr
+Gasly_en,0.23814009661835744,Vettel_en
+Red Bull_fr,0.23763636363636365,Ferrari_fr
+AlphaTauri_nl,0.23759722222222224,Alfa Romeo_nl
+Gasly_en,0.23724867724867724,Perez_en
+Perez_de,0.23500000000000001,Albon_de
+Leclerc_nl,0.23297619047619042,Stroll_nl
+Russell_nl,0.22974358974358972,Renault_nl
+Grosjean_fr,0.22940350877192983,Mercedes_fr
+Ricciardo_nl,0.22755208333333338,Racing Point_nl
+Giovinazzi_fr,0.2226190476190476,Alfa Romeo_fr
+Ricciardo_nl,0.22055555555555556,Albon_nl
+Mercedes_en,0.2203916466808452,McLaren_en
+Russell_en,0.2177822177822178,Sainz_en
+McLaren_en,0.21769475077125944,Ferrari_en
+Raikkonen_nl,0.21721544715447155,Giovinazzi_nl
+Raikkonen_nl,0.21718750000000003,Mercedes_nl
+Hamilton_fr,0.21531250000000002,McLaren_fr
+Sainz_fr,0.2132272727272727,Vettel_fr
+Verstappen_nl,0.21222222222222217,Sainz_nl
+Russell_fr,0.2073809523809524,Red Bull_fr
+Russell_de,0.20434782608695648,Albon_de
+Verstappen_fr,0.2041853885135135,Ricciardo_fr
+Ferrari_fr,0.20396680891417734,Renault_fr
+Ricciardo_nl,0.20286458333333332,Mercedes_nl
+Russell_fr,0.20262222222222226,Leclerc_fr
+Vettel_en,0.20210348162475825,Mercedes_en
+Haas_en,0.20124666861569296,""
+Russell_fr,0.2001290322580645,Albon_fr
+Kvyat_fr,0.1995731707317073,Ferrari_fr
+Kvyat_fr,0.1984019607843137,AlphaTauri_fr
+Perez_en,0.19824464153732443,Ricciardo_en
+Mercedes_nl,0.195979797979798,McLaren_nl
+Hamilton_de,0.19444444444444445,Latifi_de
+Verstappen_nl,0.19412698412698415,Raikkonen_nl
+Perez_nl,0.19262500000000002,Sainz_nl
+Mercedes_en,0.19229711703548905,Ferrari_en
+Perez_en,0.1921299372462163,Red Bull_en
+Red Bull_fr,0.1918534482758621,Racing Point_fr
+Verstappen_en,0.1916594516594516,Renault_en
+Ocon_nl,0.1908888888888889,Magnussen_nl
+Albon_de,0.18863636363636366,Vettel_de
+Ferrari_fr,0.18834188034188032,Williams_fr
+Sainz_en,0.18739837398373985,Renault_en
+Verstappen_en,0.18512352344038394,Vettel_en
+Albon_en,0.18339330953826755,Stroll_en
+Grosjean_nl,0.18015873015873018,Magnussen_nl
+Verstappen_fr,0.1793186813186813,Leclerc_fr
+Grosjean_de,0.17857142857142858,Williams_de
+Sainz_en,0.1781881313131313,Racing Point_en
+Russell_en,0.17761904761904762,Ocon_en
+Perez_de,0.17727272727272728,Stroll_de
+Leclerc_en,0.17709137709137712,Stroll_en
+Hamilton_en,0.17700429894179892,Gasly_en
+Magnussen_en,0.17682395382395386,""
+Russell_en,0.17634297520661157,Verstappen_en
+Albon_nl,0.17543312543312542,Mercedes_nl
+Red Bull_de,0.175,McLaren_de
+Ocon_en,0.1746353091353091,Magnussen_en
+Ocon_fr,0.17404901960784314,Magnussen_fr
+Ferrari_en,0.17377594627594628,Williams_en
+Norris_nl,0.1725972222222222,Williams_nl
+Bottas_en,0.16893939393939392,Perez_en
+Magnussen_en,0.16279977616388697,Haas_en
+Perez_nl,0.16268115942028985,Williams_nl
+Russell_fr,0.16255912743972445,Latifi_fr
+Bottas_en,0.16025549613784906,Red Bull_en
+Sainz_fr,0.15881481481481483,Leclerc_fr
+Ricciardo_nl,0.1580555555555556,McLaren_nl
+Hamilton_fr,0.15785714285714286,Leclerc_fr
+Raikkonen_en,0.1563419913419913,Alfa Romeo_en
+Mercedes_nl,0.15424999999999997,Williams_nl
+Vettel_nl,0.15310861423220976,Renault_nl
+Giovinazzi_nl,0.15256410256410258,Alfa Romeo_nl
+Ricciardo_en,0.15179894179894182,Mercedes_en
+Red Bull_en,0.1502754820936639,Ferrari_en
+Hamilton_en,0.15007421150278294,Ocon_en
+Haas_nl,0.14962962962962964,Racing Point_nl
+Red Bull_en,0.14958677685950414,AlphaTauri_en
+Russell_nl,0.1493915343915344,Albon_nl
+Mercedes_fr,0.14896078431372542,Renault_fr
+McLaren_en,0.1486796536796537,Alfa Romeo_en
+Bottas_nl,0.147125,Raikkonen_nl
+Bottas_nl,0.14514666666666667,Ricciardo_nl
+Gasly_nl,0.1388888888888889,Norris_nl
+Haas_de,0.13749999999999998,Alfa Romeo_de
+Russell_en,0.13285714285714287,Latifi_en
+Haas_fr,0.1318918918918919,Mercedes_fr
+Ferrari_nl,0.130125,Renault_nl
+Leclerc_fr,0.13,Red Bull_fr
+Bottas_en,0.1278695363776009,Ricciardo_en
+Norris_en,0.12723665223665223,McLaren_en
+Bottas_fr,0.126,Vettel_fr
+Russell_fr,0.125741935483871,Verstappen_fr
+Ricciardo_nl,0.12561403508771932,Grosjean_nl
+Hamilton_en,0.12555813234384663,Ricciardo_en
+Perez_en,0.12482269503546098,Grosjean_en
+Leclerc_fr,0.12476190476190478,Stroll_fr
+Russell_en,0.1237770562770563,Norris_en
+Red Bull_fr,0.12275862068965518,AlphaTauri_fr
+Verstappen_en,0.12254182418888301,Leclerc_en
+Albon_fr,0.12227272727272727,Kvyat_fr
+Hamilton_de,0.11904761904761904,Gasly_de
+Ricciardo_en,0.11816334072431636,Leclerc_en
+Sainz_en,0.11695906432748542,Mercedes_en
+Hamilton_nl,0.11666666666666665,Ricciardo_nl
+Bottas_fr,0.11581632653061222,Red Bull_fr
+Ricciardo_nl,0.11574074074074076,Vettel_nl
+Hamilton_nl,0.11282051282051284,Norris_nl
+Verstappen_nl,0.11264880952380951,Grosjean_nl
+Gasly_fr,0.11147321428571426,Ferrari_fr
+Russell_nl,0.11143333333333333,Norris_nl
+Renault_fr,0.10812790697674415,Williams_fr
+Sainz_fr,0.1060227272727273,Racing Point_fr
+Racing Point_en,0.10410884486971445,McLaren_en
+Perez_en,0.10392561983471073,Williams_en
+Verstappen_en,0.10349431270483905,Stroll_en
+Albon_fr,0.10302325581395348,Mercedes_fr
+Ferrari_fr,0.10210526315789474,AlphaTauri_fr
+Ricciardo_en,0.10102574985851726,Stroll_en
+Grosjean_en,0.09925745550745553,Mercedes_en
+Gasly_fr,0.09910526315789477,Leclerc_fr
+Norris_en,0.09612967229902715,Stroll_en
+Albon_nl,0.09444444444444446,Latifi_nl
+Perez_en,0.09173076923076925,Raikkonen_en
+Ricciardo_de,0.09166666666666667,Grosjean_de
+Ricciardo_en,0.09160314630902866,Ferrari_en
+Haas_nl,0.0888888888888889,Mercedes_nl
+Magnussen_fr,0.08870967741935486,McLaren_fr
+Latifi_en,0.08826058201058204,""
+Stroll_fr,0.08818181818181815,McLaren_fr
+Kvyat_en,0.08807720057720062,Grosjean_en
+Vettel_en,0.08689839572192515,Red Bull_en
+Perez_en,0.08636037657121995,Mercedes_en
+Bottas_en,0.08634158986175118,Vettel_en
+Norris_nl,0.08358974358974361,Stroll_nl
+Ocon_fr,0.08355769230769232,Racing Point_fr
+Gasly_nl,0.07609195402298848,Sainz_nl
+Albon_fr,0.0759,Stroll_fr
+Russell_nl,0.07527777777777779,Ocon_nl
+Red Bull_en,0.07398610742998499,McLaren_en
+Perez_en,0.07360038610038612,Sainz_en
+Sainz_en,0.07283272283272282,Ferrari_en
+Racing Point_nl,0.07192982456140351,AlphaTauri_nl
+Albon_nl,0.07160493827160497,AlphaTauri_nl
+Bottas_nl,0.07092592592592593,Leclerc_nl
+Racing Point_nl,0.07025362318840578,Ferrari_nl
+Perez_nl,0.06984126984126986,Kvyat_nl
+Albon_nl,0.06715949820788532,Stroll_nl
+Albon_nl,0.06309523809523812,Magnussen_nl
+Perez_en,0.059035409035409034,Kvyat_en
+Latifi_fr,0.059000000000000004,""
+Russell_en,0.058194444444444424,Raikkonen_en
+Albon_fr,0.05775000000000001,Magnussen_fr
+Verstappen_en,0.05617571822117274,Ricciardo_en
+Grosjean_fr,0.053490566037735846,Ferrari_fr
+Albon_fr,0.053076923076923084,Latifi_fr
+Verstappen_en,0.052403167706476544,Albon_en
+Kvyat_fr,0.051471590909090884,Grosjean_fr
+Hamilton_en,0.0493008314436886,Racing Point_en
+Bottas_fr,0.04897959183673469,Sainz_fr
+Sainz_nl,0.04801282051282052,Racing Point_nl
+Kvyat_en,0.045,Magnussen_en
+Bottas_fr,0.04452702702702702,Norris_fr
+Perez_en,0.044380024737167595,Albon_en
+Vettel_fr,0.0438888888888889,Red Bull_fr
+Mercedes_fr,0.04078947368421052,Williams_fr
+Norris_fr,0.03938775510204083,Stroll_fr
+Haas_de,0.036363636363636355,Renault_de
+Ricciardo_fr,0.03129032258064516,Ferrari_fr
+Ferrari_en,0.03029984721161191,Renault_en
+Haas_en,0.027573145245559042,Racing Point_en
+Bottas_nl,0.025925925925925932,Vettel_nl
+Vettel_nl,0.020625000000000025,Magnussen_nl
+Hamilton_en,0.019420539300057372,Ferrari_en
+Verstappen_de,0.018367346938775522,Grosjean_de
+Leclerc_en,0.01464285714285714,Kvyat_en
+Russell_en,0.007503874330797398,Giovinazzi_en
+Ricciardo_nl,0.005705128205128211,Stroll_nl
+Vettel_fr,0.0023529411764705937,Grosjean_fr
+Latifi_nl,-0.010416666666666664,Williams_nl
+Kvyat_nl,-0.02562499999999997,Grosjean_nl
+Perez_de,-0.030769230769230764,Norris_de
+Verstappen_fr,-0.03169892473118279,Sainz_fr
+Norris_de,-0.031818181818181836,Renault_de
+Raikkonen_nl,-0.033194444444444436,McLaren_nl
+Grosjean_en,-0.036481481481481476,Magnussen_en
+Gasly_en,-0.037154377880184324,AlphaTauri_en
+Hamilton_de,-0.04285714285714285,Leclerc_de
+Albon_en,-0.05892857142857144,Latifi_en
+Verstappen_en,-0.06621640937678673,Sainz_en
+Verstappen_de,-0.09999999999999999,Perez_de
+Red Bull_de,-0.13749999999999998,Ferrari_de
+Vettel_de,-0.1714285714285714,Red Bull_de
+Ocon_de,-0.29473684210526313,Williams_de
+Albon_de,-0.2969696969696971,Magnussen_de
+Norris_de,-0.3375420875420875,Stroll_de
+Ricciardo_de,-0.4199095022624434,Stroll_de
+Verstappen_de,-0.4866666666666667,Stroll_de
+Verstappen_de,-0.5,Leclerc_de
+Ocon_de,-0.5774193548387097,Magnussen_de
+﻿Source,Sentiment,Target
+Verstappen_nl,66.9059498542399,""
+Hamilton_de,64.28089387003536,""
+Hamilton_nl,45.229888524579174,""
+Verstappen_de,39.37077688707075,""
+Vettel_de,34.78719912166938,""
+Mercedes_de,34.65957862920686,""
+Red Bull_nl,24.53105592590855,""
+Ricciardo_de,24.300945741295255,""
+Mercedes_nl,22.22986211367511,""
+Hamilton_fr,22.08397161962125,""
+Bottas_de,21.310998541392888,""
+McLaren_de,21.115747542862724,""
+Ferrari_de,20.86965680495849,""
+Hamilton_en,20.771309827282394,""
+Russell_de,19.99959039493902,""
+Leclerc_de,18.76987871608098,""
+Red Bull_de,17.94660420376372,""
+Perez_de,16.07328886151034,""
+Renault_de,15.457591427764813,""
+Grosjean_de,14.734096661052169,""
+Vettel_nl,14.555844771010943,""
+Ferrari_nl,13.584995191633887,""
+Sainz_de,13.411600521820057,""
+Mercedes_fr,13.178799830572027,""
+Albon_de,11.94769472495186,""
+Gasly_de,11.91921153360019,""
+Racing Point_de,11.774536474316367,""
+Ricciardo_nl,11.677168507492535,""
+Ferrari_fr,11.660124138936023,""
+Russell_nl,11.423963866081335,""
+Perez_nl,10.850370771475703,""
+Verstappen_fr,10.227389556927083,""
+Racing Point_fr,9.453607761176862,""
+Stroll_de,9.260273498207015,""
+Verstappen_en,9.089125196088547,""
+Albon_nl,8.727511868344584,""
+Ricciardo_fr,8.710817270124023,""
+McLaren_fr,8.69898333192669,""
+Red Bull_fr,8.610782416460731,""
+Vettel_fr,8.506854426725605,""
+Williams_de,8.209777571137103,""
+Renault_fr,8.0388896302079,""
+Leclerc_nl,7.883927614361816,""
+Gasly_nl,7.8809043814022335,""
+McLaren_nl,7.77974146929802,""
+Haas_de,7.495376364995041,""
+Mercedes_en,7.134103441079186,""
+Williams_fr,7.084179368164754,""
+Ocon_de,6.921909817185978,""
+Norris_de,6.668360754693633,""
+Bottas_en,6.588576850032943,""
+Grosjean_fr,6.394450965977147,""
+Bottas_nl,6.360133683063312,""
+Russell_fr,6.356245290451358,""
+Gasly_fr,6.246695227128546,""
+Williams_nl,5.987371363525912,""
+Racing Point_nl,5.970094285331129,""
+Norris_nl,5.9474015686488855,""
+Grosjean_nl,5.857881994145283,""
+Sainz_nl,5.572249836781088,""
+Stroll_nl,5.570928064311686,""
+Renault_nl,5.457242933276707,""
+Magnussen_de,5.442939033390486,""
+Bottas_fr,5.3239294779366055,""
+Ferrari_en,5.287659460061272,""
+Ocon_nl,5.19068984638658,""
+Vettel_en,5.160670268435096,""
+AlphaTauri_de,4.987632896858902,""
+Russell_en,4.821602137341782,""
+Ocon_fr,4.752060610814585,""
+Grosjean_en,4.591385627279111,""
+Ricciardo_en,4.451334100459236,""
+Perez_en,4.2437217808259415,""
+Leclerc_fr,4.2257905852718105,""
+AlphaTauri_nl,4.1026095344209725,""
+Sainz_fr,3.8673523851196445,""
+Haas_nl,3.769210003027626,""
+Norris_fr,3.6840531417703164,""
+McLaren_en,3.5650468830071693,""
+Haas_fr,3.505495968675605,""
+Red Bull_en,3.502289468504124,""
+Leclerc_de,3.329443214390023,Ferrari_de
+Albon_en,3.2604040563379324,""
+Albon_fr,3.161850492249183,""
+Stroll_fr,3.148230250797011,""
+Sainz_en,3.058743238425225,""
+Leclerc_en,2.9594688204468977,""
+Gasly_en,2.831478390753028,""
+AlphaTauri_fr,2.7694326569848804,""
+Alfa Romeo_fr,2.741563092365275,""
+Norris_en,2.612304868265561,""
+Hamilton_de,2.466660060511079,Mercedes_de
+Alfa Romeo_de,2.3965464459401207,""
+Latifi_de,2.2771172314275763,""
+Stroll_en,2.1389882473926285,""
+Racing Point_en,2.05524261349203,""
+Kvyat_nl,1.5634375800625802,""
+Hamilton_nl,1.5368974428818556,Bottas_nl
+Kvyat_en,1.5057778308208205,""
+Kvyat_fr,1.5030170668334286,""
+Williams_en,1.4598169531086198,""
+Russell_en,1.4148904305437546,Mercedes_en
+Giovinazzi_de,1.271372549019608,""
+Verstappen_nl,1.2707439021405258,Mercedes_nl
+Sainz_de,1.2525520550776301,McLaren_de
+Ocon_en,1.195654112456744,""
+Sainz_de,1.13075,Renault_de
+Russell_de,1.1223604826546003,Mercedes_de
+Magnussen_fr,1.0948441449831798,""
+Renault_en,1.0487741879456882,""
+Russell_nl,1.026207206917161,Mercedes_nl
+Giovinazzi_fr,0.9699619668957905,""
+Hamilton_fr,0.9697406587938264,Mercedes_fr
+Ricciardo_nl,0.9637900793650794,Renault_nl
+Raikkonen_en,0.8976519542510358,""
+Leclerc_fr,0.8178538125804136,Ferrari_fr
+Perez_nl,0.8046059332824039,Racing Point_nl
+Leclerc_nl,0.7907322779769016,Ferrari_nl
+Sainz_nl,0.7762172809829059,McLaren_nl
+Raikkonen_nl,0.7732340151368803,""
+Hamilton_nl,0.7207062460833077,Red Bull_nl
+Latifi_nl,0.7114250803157054,""
+Ricciardo_de,0.6785714285714285,Norris_de
+Sainz_de,0.6461538461538462,Ferrari_de
+Russell_de,0.6446428571428571,Leclerc_de
+Magnussen_nl,0.6429529914529915,""
+Verstappen_nl,0.602394006320477,Red Bull_nl
+Russell_nl,0.577475473122025,Williams_nl
+Russell_de,0.5675675675675674,Sainz_de
+Giovinazzi_nl,0.5662678062678064,""
+AlphaTauri_en,0.5312767576038679,""
+Hamilton_nl,0.5228985507246376,Ferrari_nl
+Russell_fr,0.5212113671274962,Mercedes_fr
+Hamilton_nl,0.5191008771929825,Leclerc_nl
+Gasly_de,0.46631578947368435,Renault_de
+Alfa Romeo_en,0.4656683791000014,""
+Perez_de,0.45428571428571424,Renault_de
+Hamilton_en,0.4387543625625021,Mercedes_en
+Sainz_de,0.4375,Mercedes_de
+Hamilton_nl,0.4371248812915479,Albon_nl
+Red Bull_nl,0.43224681861348535,Ferrari_nl
+Red Bull_de,0.4312500000000001,Ferrari_de
+Latifi_fr,0.4188259005145798,""
+Hamilton_de,0.39999999999999997,Ferrari_de
+Grosjean_de,0.39411764705882346,Haas_de
+Ricciardo_fr,0.3936204481792717,Renault_fr
+Giovinazzi_en,0.3810281462255146,""
+Stroll_de,0.38,Williams_de
+Hamilton_fr,0.3620608138214163,Bottas_fr
+Hamilton_de,0.35714285714285715,Stroll_de
+Magnussen_en,0.3396237299878408,""
+Vettel_nl,0.3359511031604055,Ferrari_nl
+Sainz_fr,0.32862163892445584,Ferrari_fr
+Russell_en,0.3210064935064936,Williams_en
+Hamilton_de,0.31,Bottas_de
+Verstappen_fr,0.3030498405103668,Mercedes_fr
+Alfa Romeo_nl,0.30096491228070177,""
+Mercedes_de,0.3,Renault_de
+Gasly_nl,0.2995238095238096,Leclerc_nl
+Leclerc_en,0.2899563492063492,Ferrari_en
+Red Bull_fr,0.2801947692997796,Ferrari_fr
+Hamilton_fr,0.27835007660772704,Ferrari_fr
+Bottas_de,0.2727272727272727,Mercedes_de
+Sainz_fr,0.26989898989898986,Renault_fr
+Gasly_fr,0.2697395186335403,AlphaTauri_fr
+Hamilton_fr,0.2697008928571429,Vettel_fr
+Hamilton_de,0.2695652173913044,Norris_de
+Hamilton_nl,0.26804985337243403,Mercedes_nl
+Mercedes_de,0.2653846153846154,Ferrari_de
+Verstappen_de,0.2639534883720931,Grosjean_de
+Hamilton_nl,0.26103174603174606,McLaren_nl
+Albon_nl,0.2607183908045977,Mercedes_nl
+Perez_nl,0.25505952380952385,Ocon_nl
+Gasly_de,0.2521739130434783,AlphaTauri_de
+Hamilton_en,0.24018586102702646,Bottas_en
+Gasly_fr,0.23552500000000004,Red Bull_fr
+Haas_en,0.228819813861252,""
+Verstappen_nl,0.2172395833333333,McLaren_nl
+Raikkonen_nl,0.21721544715447155,Alfa Romeo_nl
+Russell_de,0.20434782608695648,Red Bull_de
+Gasly_nl,0.20161111111111113,AlphaTauri_nl
+Bottas_fr,0.2013137254901961,Mercedes_fr
+Hamilton_nl,0.193974358974359,Ricciardo_nl
+Red Bull_nl,0.19378205128205128,Williams_nl
+Verstappen_en,0.189808836996337,Stroll_en
+Gasly_fr,0.17632352941176477,Bottas_fr
+Russell_en,0.16506090808416388,Red Bull_en
+Vettel_de,0.16363636363636364,Williams_de
+Grosjean_fr,0.16273684210526318,Racing Point_fr
+Hamilton_fr,0.16052631578947368,Racing Point_fr
+Verstappen_en,0.15642366202346042,Mercedes_en
+Hamilton_fr,0.14966666666666667,Red Bull_fr
+Hamilton_nl,0.1492708333333333,Vettel_nl
+Hamilton_en,0.13787037037037034,Red Bull_en
+Hamilton_en,0.13782696177062373,Perez_en
+Leclerc_fr,0.13,Mercedes_fr
+Verstappen_fr,0.12976744186046513,Red Bull_fr
+Verstappen_fr,0.12883333333333333,Ricciardo_fr
+Hamilton_en,0.12800000000000003,Ricciardo_en
+Ocon_nl,0.12784722222222222,Renault_nl
+Bottas_fr,0.12231428571428574,McLaren_fr
+Albon_fr,0.12227272727272727,Red Bull_fr
+Grosjean_fr,0.12153846153846154,Ferrari_fr
+Russell_fr,0.1213888888888889,Red Bull_fr
+Russell_nl,0.12131782945736437,Bottas_nl
+Russell_nl,0.1212962962962963,Leclerc_nl
+Red Bull_en,0.1168041838889297,Racing Point_en
+Hamilton_fr,0.11504878048780487,Latifi_fr
+Mercedes_en,0.11409812409812407,McLaren_en
+Bottas_fr,0.11351449275362319,Ocon_fr
+Hamilton_nl,0.11282051282051284,Stroll_nl
+Magnussen_fr,0.11254545454545452,McLaren_fr
+Mercedes_fr,0.1120689655172414,Renault_fr
+Verstappen_nl,0.1115579710144928,Stroll_nl
+Gasly_fr,0.10999999999999997,Mercedes_fr
+Red Bull_nl,0.10265151515151515,AlphaTauri_nl
+Racing Point_de,0.09999999999999998,Renault_de
+Hamilton_en,0.09862012987012986,Vettel_en
+McLaren_fr,0.09482758620689656,Renault_fr
+Hamilton_fr,0.0912,Sainz_fr
+Ricciardo_fr,0.09035897435897437,Ferrari_fr
+Haas_nl,0.0888888888888889,Racing Point_nl
+Latifi_en,0.08826058201058204,""
+Russell_fr,0.08823076923076924,Williams_fr
+Stroll_fr,0.08818181818181815,Ferrari_fr
+Racing Point_fr,0.08421052631578947,Ferrari_fr
+Ocon_fr,0.08355769230769232,Renault_fr
+Mercedes_fr,0.08289473684210527,McLaren_fr
+Grosjean_fr,0.07673684210526317,Renault_fr
+Gasly_nl,0.07609195402298848,Stroll_nl
+Red Bull_en,0.07398610742998499,Ferrari_en
+Hamilton_en,0.07376916868442292,Ferrari_en
+Red Bull_en,0.07367153679653679,Renault_en
+Red Bull_fr,0.07064705882352938,Renault_fr
+Hamilton_fr,0.06625000000000002,Stroll_fr
+Hamilton_en,0.062064554988662146,Leclerc_en
+Hamilton_fr,0.05865671641791045,Leclerc_fr
+Bottas_fr,0.04897959183673469,Latifi_fr
+Kvyat_en,0.045,Latifi_en
+Perez_en,0.044380024737167595,Red Bull_en
+Haas_de,0.036363636363636355,Williams_de
+McLaren_en,0.03412698412698413,Renault_en
+Russell_nl,0.02809523809523809,Red Bull_nl
+Verstappen_nl,0.02642857142857143,Leclerc_nl
+Racing Point_nl,0.024712643678160916,Williams_nl
+Racing Point_nl,0.0029487179487179454,Ferrari_nl
+Russell_fr,-0.014880952380952389,Albon_fr
+﻿Source,Sentiment,Target
+Mercedes_de,24.733179334528003,""
+Ferrari_de,23.11956106521508,""
+Mercedes_nl,18.958959623470882,""
+Red Bull_nl,15.189691491150986,""
+Racing Point_de,11.21480449909595,""
+Ferrari_nl,10.799672942026016,""
+Renault_de,10.037932698519038,""
+McLaren_de,9.695073275502093,""
+Mercedes_fr,9.57509235844371,""
+Mercedes_en,9.306320518415475,""
+Vettel_de,8.748558050464688,""
+Verstappen_nl,8.676667575169889,""
+Ferrari_fr,8.29950486119073,""
+Williams_de,7.858810031068095,""
+Racing Point_nl,7.85849347218759,""
+Renault_fr,6.600322266173601,""
+Renault_nl,6.557947723022738,""
+Bottas_de,6.4094367145414655,""
+Haas_de,6.34695679033314,""
+Red Bull_de,5.689776841985664,""
+Bottas_nl,5.608301261479485,""
+Ferrari_en,5.128004698457913,""
+Red Bull_fr,4.233259565417508,""
+Bottas_en,4.120124639002114,""
+Vettel_nl,3.9691108114138913,""
+Albon_nl,3.9639645751544994,""
+McLaren_nl,3.898040168642092,""
+Ocon_de,3.7199325493132496,""
+Albon_de,3.611896997066275,""
+Williams_nl,3.486708957929599,""
+Racing Point_en,3.418415799935287,""
+Vettel_de,3.3220358069826155,Ferrari_de
+Racing Point_fr,3.297268958503759,""
+Red Bull_en,3.2424440554559544,""
+AlphaTauri_de,3.0938639791580966,""
+Renault_en,2.917086274222839,""
+McLaren_fr,2.7730217899814633,""
+Williams_fr,2.3236850741904265,""
+Haas_nl,2.2813317614009354,""
+Ricciardo_de,2.263650358262427,""
+Hamilton_de,2.193431818181818,""
+Bottas_fr,2.039563864311307,""
+Verstappen_de,1.8617866653470365,""
+Williams_en,1.7178691909415025,""
+Bottas_de,1.7150234381201872,Mercedes_de
+Verstappen_nl,1.65821527233922,Bottas_nl
+Perez_nl,1.613891527800546,""
+Vettel_en,1.527760532823644,""
+AlphaTauri_fr,1.4345689512918967,""
+Perez_de,1.413333333333333,""
+Vettel_fr,1.365643794810973,Ferrari_fr
+Ocon_nl,1.338661279076039,""
+Haas_fr,1.301654390428065,""
+Grosjean_en,1.2675514566412387,""
+McLaren_en,1.2470920274647417,""
+Alfa Romeo_de,1.2333333333333332,""
+Stroll_fr,1.2263881165855584,""
+Ferrari_de,1.1083157894736844,Renault_de
+Kvyat_nl,1.098289049723425,""
+Vettel_fr,1.0574529678035964,""
+Haas_en,1.0393357086766601,""
+Red Bull_de,1.031048387096774,Mercedes_de
+Grosjean_nl,1.0157747153553072,""
+Stroll_nl,1.0089281462265334,""
+Perez_en,0.9829348565231315,""
+AlphaTauri_nl,0.975858966407212,""
+Grosjean_de,0.9660405071119357,""
+Red Bull_nl,0.9477430836979638,Mercedes_nl
+Sainz_nl,0.9394195584881068,""
+Mercedes_nl,0.9226704529501631,Ferrari_nl
+McLaren_de,0.88875,Renault_de
+Latifi_de,0.8644444444444445,""
+Ricciardo_nl,0.8441741596415282,""
+Albon_fr,0.8422603571202734,""
+Verstappen_nl,0.8186246867167921,Leclerc_nl
+Vettel_nl,0.7907322779769016,Ferrari_nl
+Vettel_nl,0.7690106951871658,Racing Point_nl
+Norris_de,0.7384940542549236,McLaren_de
+Grosjean_fr,0.7374821333787759,""
+Ricciardo_fr,0.718983135237943,""
+Bottas_en,0.7082058386282176,Mercedes_en
+Sainz_de,0.6785714285714285,Norris_de
+Verstappen_fr,0.6765523477084624,""
+Ocon_fr,0.6739722718907503,""
+Racing Point_de,0.6727920227920228,Ferrari_de
+Alfa Romeo_nl,0.6703209886518711,""
+Norris_fr,0.6689635992267571,""
+Stroll_en,0.6611344214920281,""
+McLaren_de,0.6461538461538462,Ferrari_de
+Verstappen_de,0.6446428571428571,Leclerc_de
+Leclerc_nl,0.6237385358075015,""
+Raikkonen_nl,0.6152334656084657,""
+Red Bull_fr,0.579826406926407,Mercedes_fr
+Hamilton_de,0.5675675675675674,Sainz_de
+Latifi_de,0.5583333333333333,Mercedes_de
+Bottas_fr,0.557200297647036,Mercedes_fr
+Albon_en,0.5493181534057089,""
+Latifi_nl,0.5477027458492977,Williams_nl
+Leclerc_fr,0.5323609815136132,""
+Leclerc_de,0.5145238095238095,""
+Ricciardo_en,0.5078480284799447,""
+Kvyat_fr,0.501431623931624,""
+Verstappen_nl,0.49536657650437455,Mercedes_nl
+Norris_nl,0.49145125448028676,""
+Norris_nl,0.47681623931623934,McLaren_nl
+AlphaTauri_en,0.4742442934340713,""
+Bottas_nl,0.46225925925925926,Mercedes_nl
+Magnussen_nl,0.4547678571428573,""
+Ricciardo_de,0.45428571428571424,Renault_de
+Verstappen_nl,0.44655682079595116,Red Bull_nl
+Vettel_de,0.4375,Mercedes_de
+Red Bull_nl,0.43179563492063494,Renault_nl
+Mercedes_de,0.4312500000000001,Ferrari_de
+Verstappen_fr,0.42396573858201825,Bottas_fr
+Perez_nl,0.41289255189255203,Red Bull_nl
+Magnussen_de,0.39411764705882346,Haas_de
+Ocon_fr,0.3936204481792717,Renault_fr
+Verstappen_en,0.3854218103092768,""
+Hamilton_nl,0.38149654439128133,Mercedes_nl
+Racing Point_de,0.38,Williams_de
+Latifi_nl,0.3794444444444444,""
+Racing Point_de,0.3764705882352941,McLaren_de
+Albon_fr,0.36529244186046517,Red Bull_fr
+Norris_de,0.35714285714285715,Stroll_de
+Hamilton_en,0.3453208874458874,Mercedes_en
+Leclerc_en,0.33956701157920677,Mercedes_en
+Red Bull_en,0.3100827980263464,Mercedes_en
+Verstappen_de,0.31,Bottas_de
+Alfa Romeo_en,0.30502164502164497,""
+Ricciardo_nl,0.3040579710144928,Mercedes_nl
+Hamilton_nl,0.30038647342995173,""
+Leclerc_nl,0.29940104166666665,McLaren_nl
+Bottas_nl,0.29419753086419753,Albon_nl
+Vettel_en,0.2899563492063492,Ferrari_en
+McLaren_fr,0.2877867106947907,Ferrari_fr
+Hamilton_de,0.2846153846153846,Mercedes_de
+Sainz_de,0.28103448275862064,""
+Mercedes_fr,0.2801947692997796,Ferrari_fr
+Gasly_nl,0.27948275862068966,Red Bull_nl
+Ocon_de,0.2727272727272727,Mercedes_de
+Verstappen_de,0.2695652173913044,Norris_de
+Norris_de,0.26955162484574235,""
+Ricciardo_de,0.2639534883720931,Grosjean_de
+Verstappen_nl,0.2597826086956521,Ferrari_nl
+Ferrari_nl,0.25880000000000003,Renault_nl
+Ricciardo_nl,0.25505952380952385,Ocon_nl
+Verstappen_de,0.2521739130434783,AlphaTauri_de
+Leclerc_en,0.24070516491319935,""
+Verstappen_en,0.24018586102702646,Bottas_en
+Norris_en,0.23989621489621485,""
+Hamilton_fr,0.23511428571428572,""
+Perez_nl,0.23479591836734695,Mercedes_nl
+Hamilton_en,0.23294390794390796,""
+Magnussen_fr,0.23179901960784316,""
+Ocon_en,0.2290731292517007,""
+Alfa Romeo_fr,0.2226190476190476,""
+Sainz_en,0.2177822177822178,Mercedes_en
+Racing Point_nl,0.2172395833333333,McLaren_nl
+Giovinazzi_nl,0.21721544715447155,Alfa Romeo_nl
+Albon_en,0.20944093282133147,Red Bull_en
+Albon_de,0.20434782608695648,Red Bull_de
+Ferrari_nl,0.20161111111111113,AlphaTauri_nl
+Racing Point_fr,0.19562665782493371,Renault_fr
+Gasly_fr,0.19518290441176472,""
+Verstappen_nl,0.193974358974359,Ricciardo_nl
+Renault_nl,0.19378205128205128,Williams_nl
+Bottas_en,0.189808836996337,Stroll_en
+Hamilton_fr,0.18451612903225809,Mercedes_fr
+Mercedes_nl,0.16728174603174603,McLaren_nl
+Vettel_nl,0.16652106227106228,Red Bull_nl
+McLaren_de,0.16363636363636364,Williams_de
+Mercedes_fr,0.16273684210526318,Racing Point_fr
+Sainz_fr,0.16225806451612904,Mercedes_fr
+Bottas_fr,0.16052631578947368,Racing Point_fr
+Red Bull_fr,0.15826630434782604,AlphaTauri_fr
+McLaren_nl,0.1580555555555556,Renault_nl
+Leclerc_fr,0.15785714285714286,Vettel_fr
+Ricciardo_fr,0.15568344380005525,Mercedes_fr
+Norris_fr,0.15545454545454543,Renault_fr
+Ocon_fr,0.15280000000000002,Mercedes_fr
+Raikkonen_en,0.14992521367521366,""
+Verstappen_fr,0.14966666666666667,Red Bull_fr
+Verstappen_nl,0.1492708333333333,Vettel_nl
+Verstappen_nl,0.1429273504273504,Albon_nl
+Magnussen_en,0.13815382765382764,""
+Gasly_en,0.13787037037037034,Red Bull_en
+Bottas_en,0.13782696177062373,Perez_en
+Latifi_en,0.13285714285714287,Williams_en
+Bottas_fr,0.12883333333333333,Ricciardo_fr
+Bottas_en,0.12800000000000003,Ricciardo_en
+Mercedes_nl,0.12784722222222222,Renault_nl
+Latifi_fr,0.1274052812858783,""
+Sainz_fr,0.12651095181202712,""
+Vettel_fr,0.126,Mercedes_fr
+Norris_en,0.1237770562770563,Williams_en
+Ricciardo_fr,0.12231428571428574,McLaren_fr
+Kvyat_fr,0.12227272727272727,Red Bull_fr
+Haas_fr,0.12153846153846154,Ferrari_fr
+Bottas_fr,0.1213888888888889,Red Bull_fr
+Albon_nl,0.1212962962962963,Leclerc_nl
+Gasly_de,0.11904761904761904,""
+Mercedes_en,0.1168041838889297,Racing Point_en
+Ocon_nl,0.1151388888888889,Renault_nl
+Verstappen_fr,0.11504878048780487,Latifi_fr
+McLaren_fr,0.11444444444444442,Renault_fr
+Gasly_fr,0.11441860465116278,Bottas_fr
+Racing Point_en,0.11409812409812407,McLaren_en
+Ricciardo_fr,0.11351449275362319,Ocon_fr
+Norris_nl,0.11282051282051284,Stroll_nl
+Haas_fr,0.11254545454545452,McLaren_fr
+Bottas_fr,0.11184375000000002,Vettel_fr
+Bottas_nl,0.1115579710144928,Stroll_nl
+Ferrari_fr,0.11147321428571426,AlphaTauri_fr
+Verstappen_fr,0.10999999999999997,Mercedes_fr
+Red Bull_nl,0.10864341085271319,Ferrari_nl
+Leclerc_fr,0.10750000000000001,Mercedes_fr
+Mercedes_de,0.1068181818181818,McLaren_de
+Racing Point_nl,0.10265151515151515,AlphaTauri_nl
+Gasly_fr,0.09953125000000004,Mercedes_fr
+Ocon_en,0.09862012987012986,Vettel_en
+Ferrari_fr,0.09482758620689656,Renault_fr
+Sainz_nl,0.09375,McLaren_nl
+Bottas_fr,0.0912,Sainz_fr
+Verstappen_en,0.0891097016678412,Mercedes_en
+Mercedes_nl,0.0888888888888889,Racing Point_nl
+Latifi_fr,0.08823076923076924,Williams_fr
+Racing Point_fr,0.08289473684210527,McLaren_fr
+Haas_fr,0.07673684210526317,Renault_fr
+Sainz_nl,0.07609195402298848,Stroll_nl
+McLaren_en,0.07398610742998499,Ferrari_en
+Bottas_en,0.07376916868442292,Ferrari_en
+Kvyat_en,0.07367826617826617,""
+Mercedes_en,0.07367153679653679,Renault_en
+Mercedes_fr,0.07064705882352938,Renault_fr
+Bottas_fr,0.06625000000000002,Stroll_fr
+Perez_en,0.06437229437229437,Williams_en
+Bottas_en,0.062064554988662146,Leclerc_en
+Albon_fr,0.05865671641791045,Leclerc_fr
+Sainz_fr,0.04897959183673469,Latifi_fr
+Albon_nl,0.045742296918767494,Red Bull_nl
+Magnussen_en,0.045,Latifi_en
+Gasly_en,0.039133928571428576,""
+Renault_de,0.036363636363636355,Williams_de
+Red Bull_nl,0.03559523809523812,Racing Point_nl
+Ocon_fr,0.03414634146341463,Ferrari_fr
+Ferrari_en,0.03412698412698413,Renault_en
+Vettel_de,0.030769230769230764,McLaren_de
+Hamilton_nl,0.029772727272727288,Williams_nl
+Perez_nl,0.02642857142857143,Leclerc_nl
+McLaren_nl,0.024712643678160916,Williams_nl
+Giovinazzi_en,0.007503874330797398,""
+Sainz_en,0.007383976723599389,""
+McLaren_nl,0.0029487179487179454,Ferrari_nl
+Verstappen_fr,0,Vettel_fr
+Hamilton_fr,-0.014880952380952389,Albon_fr
+Latifi_en,-0.05892857142857144,""
+Magnussen_de,-0.4295614656015103,""
+Stroll_de,-0.8108455291984703,""
+

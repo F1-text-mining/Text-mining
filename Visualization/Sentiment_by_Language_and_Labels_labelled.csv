@@ -1,0 +1,117 @@
+ID,Label,Sentiment,Language
+0,Verstappen_nl,69.13431388847735,Netherlands
+1,Hamilton_de,68.0842620050806,Germany
+2,Hamilton_nl,49.9517638272859,Netherlands
+3,Verstappen_de,39.63473037544282,Germany
+4,Mercedes_de,35.22496324459147,Germany
+5,Vettel_de,34.950835485305745,Germany
+6,Red Bull_nl,25.2597363109556,Netherlands
+7,Ricciardo_de,24.97951716986669,Germany
+8,Hamilton_fr,24.605172541063226,France
+9,Russell_de,22.538509128390995,Germany
+10,Mercedes_nl,22.229862113675097,Netherlands
+11,Leclerc_de,22.099321930471007,Germany
+12,Hamilton_en,21.896591398701506,Great-Britain
+13,Bottas_de,21.58372581412016,Germany
+14,McLaren_de,21.115747542862724,Germany
+15,Ferrari_de,20.86965680495849,Germany
+16,Red Bull_de,18.37785420376372,Germany
+17,Sainz_de,16.87855642305153,Germany
+18,Perez_de,16.527574575796052,Germany
+19,Renault_de,15.457591427764813,Germany
+20,Grosjean_de,15.128214308110993,Germany
+21,Vettel_nl,14.891795874171352,Netherlands
+22,Ferrari_nl,13.584922727865768,Netherlands
+23,Mercedes_fr,13.373763532931369,France
+24,Russell_nl,13.298355909969423,Netherlands
+25,Ricciardo_nl,12.640958586857623,Netherlands
+26,Gasly_de,12.637701236117353,Germany
+27,Albon_de,11.947694724951859,Germany
+28,Perez_nl,11.910036228567627,Netherlands
+29,Racing Point_de,11.874536474316363,Germany
+30,Ferrari_fr,11.660124138936023,France
+31,Verstappen_fr,10.789040172631246,France
+32,Stroll_de,9.640273498207018,Germany
+33,Racing Point_fr,9.537818287492652,France
+34,Verstappen_en,9.435357695108346,Great-Britain
+35,Ricciardo_fr,9.194796692662267,France
+36,Albon_nl,8.988230259149185,Netherlands
+37,Red Bull_fr,8.961624244584042,France
+38,McLaren_fr,8.793810918133588,France
+39,Leclerc_nl,8.674659892338722,Netherlands
+40,Vettel_fr,8.506854426725607,France
+41,Gasly_nl,8.458131256060145,Netherlands
+42,Williams_de,8.209777571137103,Germany
+43,Renault_fr,8.0388896302079,France
+44,McLaren_nl,7.779741469298019,Netherlands
+45,Haas_de,7.531740001358677,Germany
+46,Mercedes_en,7.24820156517731,Great-Britain
+47,Williams_fr,7.084179368164754,France
+48,Russell_fr,7.072195363317559,France
+49,Gasly_fr,7.038283275173849,France
+50,Ocon_de,6.921909817185979,Germany
+51,Grosjean_fr,6.755463111726136,France
+52,Russell_en,6.722559969476194,Great-Britain
+53,Norris_de,6.6683607546936345,Germany
+54,Bottas_en,6.460707313655343,Great-Britain
+55,Bottas_nl,6.360133683063311,Netherlands
+56,Sainz_nl,6.348467117763994,Netherlands
+57,Racing Point_nl,5.99775564695801,Netherlands
+58,Williams_nl,5.987371363525912,Netherlands
+59,Norris_nl,5.947401568648887,Netherlands
+60,Grosjean_nl,5.8578819941452815,Netherlands
+61,Bottas_fr,5.810051573731445,France
+62,Stroll_nl,5.570928064311687,Netherlands
+63,Renault_nl,5.457242933276707,Netherlands
+64,Magnussen_de,5.442939033390486,Germany
+65,Ocon_nl,5.318537068608801,Netherlands
+66,Ferrari_en,5.287659460061272,Great-Britain
+67,Leclerc_fr,5.1736443978522235,France
+68,Vettel_en,5.160670268435095,Great-Britain
+69,AlphaTauri_de,4.987632896858902,Germany
+70,Ocon_fr,4.835618303122278,France
+71,Grosjean_en,4.591385627279111,Great-Britain
+72,Sainz_fr,4.46587301394309,France
+73,Ricciardo_en,4.451334100459236,Great-Britain
+74,Perez_en,4.288101805563109,Great-Britain
+75,AlphaTauri_nl,4.102609534420973,Netherlands
+76,Haas_nl,3.858098891916515,Netherlands
+77,Red Bull_en,3.7667512966195758,Great-Britain
+78,Norris_fr,3.684053141770316,France
+79,McLaren_en,3.5991738671341538,Great-Britain
+80,Haas_fr,3.505495968675605,France
+81,Albon_fr,3.28412321952191,France
+82,Albon_en,3.2604040563379333,Great-Britain
+83,Leclerc_en,3.2494251696532466,Great-Britain
+84,Stroll_fr,3.236412068978829,France
+85,Sainz_en,3.0587432384252247,Great-Britain
+86,Gasly_en,2.831478390753028,Great-Britain
+87,AlphaTauri_fr,2.7694326569848804,France
+88,Alfa Romeo_fr,2.741563092365275,France
+89,Norris_en,2.612304868265561,Great-Britain
+90,Alfa Romeo_de,2.3965464459401207,Germany
+91,Latifi_de,2.2771172314275763,Germany
+92,Stroll_en,2.1389882473926285,Great-Britain
+93,Racing Point_en,2.05524261349203,Great-Britain
+94,Giovinazzi_de,2.011372549019608,Germany
+95,Kvyat_nl,1.5634375800625802,Netherlands
+96,Kvyat_en,1.5507778308208204,Great-Britain
+97,Kvyat_fr,1.5030170668334288,France
+98,Williams_en,1.4598169531086198,Great-Britain
+99,Magnussen_fr,1.2073895995286343,France
+100,Ocon_en,1.1956541124567441,Great-Britain
+101,Renault_en,1.0487741879456882,Great-Britain
+102,Raikkonen_nl,0.9904494622913518,Netherlands
+103,Giovinazzi_fr,0.9699619668957905,France
+104,Raikkonen_en,0.8976519542510358,Great-Britain
+105,Latifi_nl,0.7114250803157054,Netherlands
+106,Magnussen_nl,0.6429529914529915,Netherlands
+107,Giovinazzi_nl,0.5662678062678064,Netherlands
+108,AlphaTauri_en,0.5312767576038679,Great-Britain
+109,Alfa Romeo_en,0.4656683791000014,Great-Britain
+110,Latifi_fr,0.4188259005145798,France
+111,Giovinazzi_en,0.3810281462255146,Great-Britain
+112,Magnussen_en,0.33962372998784085,Great-Britain
+113,Alfa Romeo_nl,0.30096491228070177,Netherlands
+114,Haas_en,0.228819813861252,Great-Britain
+115,Latifi_en,0.08826058201058204,Great-Britain
